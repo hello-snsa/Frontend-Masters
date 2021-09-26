@@ -10,7 +10,7 @@ This website offers all the frontend courses available to its users.
 
 Team Members :handshake:
 - [Asutosh Behera](https://github.com/asutoshb)
-- [Md Ali Shehenshah](https://github.com/hello-snsa)
+- [Md Ali Shahanshah](https://github.com/hello-snsa)
 - [Niket Nayan](https://github.com/Niket1-1)
 ---
 
